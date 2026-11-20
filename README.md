@@ -1,10 +1,5 @@
 # Geometría Diferencial — Primer cuatrimestre de 2014
 
-## Equipo docente
-
-- **Clases teóricas:** Fernando Cukierman
-- **Clases prácticas:** César Massri, Javier Gargiulo Acea
-
 ## Prácticas
 
 - [Variedades y funciones diferenciables](dif1.pdf)
